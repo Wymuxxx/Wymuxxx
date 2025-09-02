@@ -1,0 +1,3 @@
+teste de conexao
+
+arquivo criado pra testar o "PUSH" direto do vscode
