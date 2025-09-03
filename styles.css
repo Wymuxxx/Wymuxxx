@@ -1,0 +1,26 @@
+body {
+  background-color: white;
+  font-family: Verdana;
+}
+
+h1 {
+  text-align: center;
+  font-size: 6em;
+  color: blueviolet;
+  padding: 4px;
+}
+
+hr {
+  border-color: aqua;
+  border-width: 5px;
+}
+
+a {
+  padding: 100px;
+}
+
+img {
+    width: 200px;
+
+
+}
